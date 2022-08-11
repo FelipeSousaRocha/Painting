@@ -1,5 +1,5 @@
 
-# Socket.IO Collaborative Whiteboard
+# Socket.IO Collaborative Painting
 
 A simple collaborative whiteboard for Socket.IO
 
