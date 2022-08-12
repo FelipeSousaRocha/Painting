@@ -1,7 +1,7 @@
 
 # Socket.IO Collaborative Painting
 
-A simple collaborative whiteboard for Socket.IO
+A simple collaborative Painting for Socket.IO
 
 ## How to use
 
@@ -14,4 +14,4 @@ a port by supplying the `PORT` env variable.
 
 ## Features
 
-- draw on the whiteboard and all other users will see you drawings live
+- draw on the painting and all other users will see you drawings live
